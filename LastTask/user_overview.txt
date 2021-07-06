@@ -1,0 +1,6 @@
+Details for user admin
+______The total number of task are 3
+The percentage of task assigned to user are 100.0 %
+The total percentage of completed tasks by user is 33.33333333333333%
+ The total percentage of tasks that are not yet completed and overdue by user is 66.66666666666666%
+ 
